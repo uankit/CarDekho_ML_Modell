@@ -18,7 +18,7 @@ The original dataset contains two (.csv) data files , which combined gives the f
 ## **3. Evaluation**
 
 
-> If we can reach 97% accuracy at predicting the prices of the cars, we'll pursure this project.
+> If we can reach 97% accuracy at predicting the prices of the cars, we'll pursue this project.
 
 However, due to the nature of experimentation, the evaluation metric may change over time.
 
